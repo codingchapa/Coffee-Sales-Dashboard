@@ -60,4 +60,5 @@ An interactive Excel dashboard to track coffee sales, built using advanced Excel
 
 ---
 
-- Dashboard Interaction
+## Dashboard Interaction 
+- <a href="https://github.com/codingchapa/Coffee-Sales-Dashboard/blob/main/coffeeOrdersProject.xlsx"> View Dashboard</a>
