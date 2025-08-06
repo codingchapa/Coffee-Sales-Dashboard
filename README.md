@@ -60,4 +60,4 @@ An interactive Excel dashboard to track coffee sales, built using advanced Excel
 
 ---
 
-## 📂 Project Structure
+- Dashboard Interaction
