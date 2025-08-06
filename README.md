@@ -16,8 +16,6 @@ An interactive Excel dashboard to track coffee sales, built using advanced Excel
 - Timeline and slicers for interactivity
 - Final dashboard with clean formatting and insights
 
----
-
 ## ❓ Questions This Dashboard Answers
 
 - What are the total sales by product or region?
@@ -27,7 +25,7 @@ An interactive Excel dashboard to track coffee sales, built using advanced Excel
 - What categories or customers contribute the most?
 - How can we interactively filter and analyze the data?
 
----
+- Dashboard Interaction <a href="https://github.com/codingchapa/Coffee-Sales-Dashboard/blob/main/coffeeOrdersProject.xlsx"> View Dashboard</a>
 
 ## 🛠️ Process Overview
 
@@ -57,7 +55,4 @@ An interactive Excel dashboard to track coffee sales, built using advanced Excel
    - Assembled charts, KPIs, and filters into a unified dashboard layout
    - Applied formatting for a clean, professional look
 
----
-
-## Dashboard Interaction 
-- <a href="https://github.com/codingchapa/Coffee-Sales-Dashboard/blob/main/coffeeOrdersProject.xlsx"> View Dashboard</a>
+## Dashboard
