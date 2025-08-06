@@ -25,7 +25,8 @@ An interactive Excel dashboard to track coffee sales, built using advanced Excel
 - What categories or customers contribute the most?
 - How can we interactively filter and analyze the data?
 
-- Dashboard Interaction <a href="https://github.com/codingchapa/Coffee-Sales-Dashboard/blob/main/coffeeOrdersProject.xlsx"> View Dashboard</a>
+## Dashboard Interaction 
+- <a href="https://github.com/codingchapa/Coffee-Sales-Dashboard/blob/main/coffeeOrdersProject.xlsx"> View Dashboard</a>
 
 ## 🛠️ Process Overview
 
