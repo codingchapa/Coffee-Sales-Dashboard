@@ -25,7 +25,6 @@ An interactive Excel dashboard to track coffee sales, built using advanced Excel
 - How do sales trends change over time?
 - Which months or periods generate the most revenue?
 - What categories or customers contribute the most?
-- Are there any duplicates or data quality issues?
 - How can we interactively filter and analyze the data?
 
 ---
