@@ -57,3 +57,4 @@ An interactive Excel dashboard to track coffee sales, built using advanced Excel
    - Applied formatting for a clean, professional look
 
 ## Dashboard
+<img width="1368" height="642" alt="Screenshot Coffee Sales Dashboard" src="https://github.com/user-attachments/assets/170626f6-a89c-4e88-b808-c82464d4d3ff" />
