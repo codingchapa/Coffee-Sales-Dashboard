@@ -58,3 +58,17 @@ An interactive Excel dashboard to track coffee sales, built using advanced Excel
 
 ## Dashboard
 <img width="1368" height="642" alt="Screenshot Coffee Sales Dashboard" src="https://github.com/user-attachments/assets/170626f6-a89c-4e88-b808-c82464d4d3ff" />
+
+## 📚 What I Learned / Conclusion
+
+Through building this Coffee Sales Dashboard, I deepened my understanding of how to transform raw data into actionable business insights using Excel. 
+Specifically, I learned how to:
+
+- Leverage advanced Excel functions like XLOOKUP and INDEX-MATCH to efficiently retrieve and cross-reference data.  
+- Implement logical formulas with multiple IF statements to segment and analyze sales data dynamically.  
+- Clean and prepare data by formatting dates, numbers, and identifying duplicates to ensure accuracy in reporting.  
+- Create interactive dashboards using pivot tables, slicers, timelines, and pivot charts to provide real-time filtering and visual analysis.  
+- Design user-friendly layouts that make complex data understandable at a glance for decision-makers.  
+
+Overall, this project enhanced my data analysis skills and reinforced the importance of clear, interactive visualizations in communicating business trends. 
+It also gave me practical experience in managing and presenting data that can directly support business strategy and operations.
